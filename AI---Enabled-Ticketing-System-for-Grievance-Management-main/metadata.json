@@ -1,0 +1,8 @@
+{
+  "name": "AI-Grievance System",
+  "description": "An advanced AI-enabled grievance management system featuring intelligent classification, sentiment analysis, automated prioritization, and a comprehensive dashboard for administrators and users.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
